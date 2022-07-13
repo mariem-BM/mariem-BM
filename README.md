@@ -22,6 +22,21 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 <a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
           </a></p>
           
+          
+          
+          <p align = "center">
+  
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Chadi7781) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/chaditroudi)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/shado.troudi)
+
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:chadi.troudi@esprit.tn)
+
+
+</p>
+
+          
+          
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
 
