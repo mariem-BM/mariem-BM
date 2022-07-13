@@ -17,8 +17,8 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 <a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
           </a></p>
           
- <div align="center">         
+   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
-</div>
+
 ![Profile views](https://gpvc.arturio.dev/Mariem-BM)  
 
