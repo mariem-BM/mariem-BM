@@ -13,8 +13,7 @@ I'am always ready to engage in a new adventures and take on new challenges ğŸ”¥ğ
   [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)
 
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]
-  (https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />] (https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
 
 
 </p>
