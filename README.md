@@ -4,7 +4,7 @@ I'am always ready to engage in a new adventures and take on new challenges 🔥�
 
 
 - 📫 &nbsp; How to reach me: &nbsp;
-  <a href="https://linkedin.com/in/chaditroudi](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/">
+  <a href="https://www.linkedin.com/in/maryem-ben-massaoud-605821197/">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
   </a>
           
