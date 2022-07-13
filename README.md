@@ -10,7 +10,7 @@ I'am always ready to engage in a new adventures and take on new challenges ğŸ”¥ğ
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
   </a>
     
-<a
+
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)
  </a>
 
