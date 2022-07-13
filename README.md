@@ -6,12 +6,7 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 
 - ðŸ“« &nbsp; How to reach me: &nbsp;
 <p align="center">
-   <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
-          </a></p>
-          
-          
- <p align = "center">
+  
   
 [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Mariem-BM) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
@@ -21,6 +16,12 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 
 </p>
       
+   <p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
+          </a></p>
+          
+          
+
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
 
