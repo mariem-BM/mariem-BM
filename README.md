@@ -8,8 +8,8 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mariem-BM)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Mariem-BM)  
-</p>
+
