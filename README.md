@@ -16,7 +16,8 @@ I'am always ready to engage in a new adventures and take on new challenges ğŸ”¥ğ
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mariem-BM) 
 
- </a>         
+ </a>  
+    </p>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
           </a></p>
