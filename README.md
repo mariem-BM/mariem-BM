@@ -23,18 +23,16 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
           </a></p>
           
           
-          
-          <p align = "center">
+ <p align = "center">
   
-[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">][(https://github.com/Mariem-BM)]
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](href="https://www.linkedin.com/in/maryem-ben-massaoud-605821197/")
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Mariem-BM) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/chaditroudi](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
 
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)
 
 
 </p>
-
-          
+      
           
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
