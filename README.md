@@ -5,5 +5,5 @@ I'am always ready to engage in a new adventures and take on new challenges 🔥�
 <br />
 
 
-- 💬 Chat with me:  [@navin_moorthy](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
+- 💬 Chat with me:  (https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
 
