@@ -11,8 +11,8 @@ I'am always ready to engage in a new adventures and take on new challenges ğŸ”¥ğ
   </a>
 
 
-  
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)
+ <img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mariem-BM) 
 </div>
