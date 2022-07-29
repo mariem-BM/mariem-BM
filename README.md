@@ -11,7 +11,8 @@ I'am always ready to engage in a new adventures and take on new challenges 🔥�
 
 - 📫 &nbsp; How to reach me: &nbsp;
 
-<p align =  "center">
+<p align="center">
+ <br>
   
   
 [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Mariem-BM) 
