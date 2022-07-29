@@ -20,7 +20,7 @@ I'am always ready to engage in a new adventures and take on new challenges ğŸ”¥ğ
   [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
 
 </p>
-      
+   <br/>   
    <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
           </a></p>
