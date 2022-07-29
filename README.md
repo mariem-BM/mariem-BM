@@ -4,9 +4,7 @@
 <br>
  </div>
 <p>
-### Hi there, I'm [Durgesh Samariya](https:/mariem-BM.github.io)
-<h1 align="center">
- ## Hi there, I'm  [Maryem Ben Massaoud](https://mariem-BM.github.io)👋</h1>
+<h1 align="center"> <b>Hi there, I'm Maryem Ben Massaoud👋 </b></h1>
 </p>
 I'm a software engineering student at Esprit School of Engineering and Technology
 
