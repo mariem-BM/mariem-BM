@@ -2,6 +2,7 @@
 🔴🟡🟢
 
 <br>
+ </div>
 <p>
 
   <h1 align="center" style="color:red;"><b>Hi there, I'm Maryem Ben Massaoud 👋</b></h1>
