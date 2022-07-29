@@ -37,7 +37,7 @@ I love learning new techs and using new tools and I'am always ready to engage in
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
 
 #### IDEs :
