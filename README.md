@@ -3,7 +3,7 @@
 
   <h1 align="center"><b>Hi there, I'm Maryem Ben Massaoud 👋</b></h1>
 </p>
-I'm Mariem a software engineering student at Esprit School of Engineering and Technology
+I'm a software engineering student at Esprit School of Engineering and Technology
 
 I'am always ready to engage in a new adventures and take on new challenges 🔥🔥
 
