@@ -12,7 +12,7 @@ I'm a software engineering student at Esprit School of Engineering and Technolog
 I'am always ready to engage in a new adventures and take on new challenges 🔥🔥
 
 
-## 📫 Connect with me:
+## 📫 Connect with me :
 <p align="center">
  
   
@@ -22,12 +22,12 @@ I'am always ready to engage in a new adventures and take on new challenges 🔥�
 
 ## Skills:
 
-#### Tools and Technologies
+#### Tools and Technologies :
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### IDEs
+#### IDEs :
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
