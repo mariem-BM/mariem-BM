@@ -12,9 +12,7 @@ I'm a software engineering student at Esprit School of Engineering and Technolog
 I'am always ready to engage in a new adventures and take on new challenges 🔥🔥
 
 
-
-- 📫 &nbsp; How to reach me: &nbsp;
-## Connect with me:
+## - 📫  Connect with me:
 <p align="center">
  <br>
   
