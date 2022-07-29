@@ -15,16 +15,10 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
  <br>
   
   <a href="https://www.linkedin.com/in/maryem-ben-massaoud-605821197/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
- 
  <a href="mailto:mariembenmassoud123@gmail.com?subject=Hey%20Maryem"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  
-  <a href="https://github.com/Mariem-BM"><img src="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black" alt="LinkedIn" /></a>&nbsp;
- 
 [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Mariem-BM) 
-  [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mariembenmassoud123@gmail.com)
-
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/maryem-ben-massaoud-605821197/)
-
+  
 </p>
    <br/>   
    <p align="center">
