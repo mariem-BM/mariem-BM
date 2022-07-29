@@ -28,6 +28,12 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
 <br/>
  <p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
+
+ <p align="center">
+  <a href="https://github.com/Mariem-BM">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mariem-BM&count_private=true&hide_border=true&show_icons=true" alt="Chadi7781's github stats">
+  </a>
 </p>
+ 
 ![Profile views](https://gpvc.arturio.dev/Mariem-BM)  
 
