@@ -30,8 +30,6 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
           
  <hr>          
 <br/>
- <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
 
  <p align="center">
   <a href="https://github.com/Mariem-BM">
