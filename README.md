@@ -18,7 +18,11 @@ I'am always ready to engage in a new adventures and take on new challenges ðŸ”¥ð
  <a href="mailto:mariembenmassoud123@gmail.com?subject=Hey%20Maryem"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;  
 </p>
    <br>  
-   
+   <h3 align="center">Languages and Frameworks</h3>
+<br>
+
+
+<hr>
    <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy)"> <img src="https://github-profile-trophy.vercel.app/?username=Mariem-BM"/> 
           </a></p>
