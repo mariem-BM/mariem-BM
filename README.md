@@ -1,7 +1,7 @@
  
 <p>
 
-  <h1 align="center"><b>Hello there, I'm Maryem Ben Massaoud 👋</b></h1>
+  <h1 align="center"><b>Hi there, I'm Maryem Ben Massaoud 👋</b></h1>
 </p>
 I'm Mariem a software engineering student at Esprit School of Engineering and Technology
 
