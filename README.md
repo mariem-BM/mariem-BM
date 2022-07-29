@@ -21,9 +21,9 @@ I love learning new techs and using new tools and I'am always ready to engage in
 
 </p>
 
-## Skills:
+## Skills :
 
-#### Tools and Technologies :
+#### Tools and Technologies 🛠️ :
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
