@@ -5,7 +5,7 @@
  </div>
 <p>
 
-<h1 align="center"><b>Hi there, I'm  [Maryem Ben Massaoud](https://Mariem-BM.github.io)👋</b></h1>
+<h1 align="center"><b>Hi there, I'm  [Maryem Ben Massaoud](https://mariem-BM.github.io)👋</b></h1>
 </p>
 I'm a software engineering student at Esprit School of Engineering and Technology
 
