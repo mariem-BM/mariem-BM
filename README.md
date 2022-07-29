@@ -1,7 +1,7 @@
  
 <p>
 
-  <h1 align="center"><b>Hi there, I'm Maryem Ben Massaoud 👋</b></h1>
+  <h1 align="center" color="pink"><b>Hi there, I'm Maryem Ben Massaoud 👋</b></h1>
 </p>
 I'm a software engineering student at Esprit School of Engineering and Technology
 
@@ -26,7 +26,8 @@ I'am always ready to engage in a new adventures and take on new challenges 🔥�
           
  <hr>          
 <br/>
-
+ <p align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-BM&show_icons=true)  
 
  <p align="center">
   <a href="https://github.com/Mariem-BM">
