@@ -55,5 +55,7 @@ I love learning new techs and using new tools and I'am always ready to engage in
  
 ![Profile views](https://gpvc.arturio.dev/Mariem-BM)  
 
+Thanks for visiting ❤️
+
 ------
 Credits: [Maryem Ben Massaoud](https://github.com/mariem-BM)
