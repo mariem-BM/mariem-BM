@@ -45,7 +45,7 @@ I love learning new techs and using new tools and I'am always ready to engage in
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important")&nbsp;
-![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg??style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg??style=for-the-badge&logo=notepad%2B%2B&logoColor=important)&nbsp;
  ![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
 
 <hr>
