@@ -7,7 +7,7 @@
 <h1 align="center"> <b>Hi there, I'm Maryem Ben Massaoud <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </b></h1>
 </p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-I'm a software engineering student at Esprit School of Engineering and Technology
+I'm a software Engineer
 
 I love learning new techs and using new tools and I'am always ready to engage in a new adventures and take on new challenges 🔥🔥
 
